@@ -11,6 +11,7 @@ LED patterns progress as follows:
 6. Randomly choose whethe to run rainbow spin pattern
 7. Randomly choose empty pattern and turn off all LEDs
 
+# Videos
 Light Rain demo:
 https://youtube.com/shorts/Ym3T_KgXJqE?feature=share
 
