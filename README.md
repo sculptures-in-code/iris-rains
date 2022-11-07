@@ -10,3 +10,7 @@ LED patterns progress as follows:
 5. Randomly run Light Rain with a new color or move to next pattern
 6. Randomly choose whethe to run rainbow spin pattern
 7. Randomly choose empty pattern and turn off all LEDs
+
+Light Rain demo:
+https://youtube.com/shorts/Ym3T_KgXJqE?feature=share
+
