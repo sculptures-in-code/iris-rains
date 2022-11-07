@@ -16,3 +16,6 @@ https://youtube.com/shorts/Ym3T_KgXJqE?feature=share
 
 Fill/static/empty:
 https://youtube.com/shorts/n5DqZEa3BEo?feature=share
+
+Static from below:
+https://youtube.com/shorts/eDEqp_wxMwA?feature=share
